@@ -1,0 +1,46 @@
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Development environment files
+.vscode/
+.idea/
+.spyderproject
+.spyproject
+
+# Logs
+*.log
+
+# C++ build files
+*.o
+*.so
+*.out
+cmake-build-debug/
+
+# OpenGL and build artifacts
+*.obj
+*.exe
+*.dll
+*.lib
+*.pdb
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# ImGui bindings and generated files
+*.generated.*
+*.bak
+*.swp
+
+# Configuration files
+*.sublime-workspace
+
+# OS and temporary files
+*.tmp
+*.orig
+
+# Git
+*.rej
+*.orig
