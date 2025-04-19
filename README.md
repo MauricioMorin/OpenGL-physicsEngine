@@ -8,3 +8,5 @@ This is a self-built 3D physics simulation project written in C++, featuring rea
 - **Entity-Component-System (ECS)** for modular and scalable architecture  
 - **Basic physics simulation** (collision detection between spheres and walls)  
 - Real-time rendering and interaction 
+
+![Simulation Screenshot](assets/screenshot.png)
