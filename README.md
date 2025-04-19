@@ -9,4 +9,4 @@ This is a self-built 3D physics simulation project written in C++, featuring rea
 - **Basic physics simulation** (collision detection between spheres and walls)  
 - Real-time rendering and interaction 
 
-![Simulation Screenshot](assets/screenshot.png)
+![Simulation Screenshot](assets/Screenshot.png)
